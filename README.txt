@@ -1,18 +1,9 @@
 # plastic-kit
 
-Hi there, good to see you got the Precious Plastic download-kit!
-
-
-This package contains all the templates, posters and technical drawings from our plastic instruction videos which you can see at preciousplastic.com/videos
-
-It should be all the information you need to start your own little plastic factory.
-
-
-Good luck!
-
--The folks from Precious Plastic
-
-
+YEAH, you made it into the download-kit!
+Start with folder 1. read the introduction text and make sure to watch the videos from our website.
 
 Need support? Read this: http://new.preciousplastic.com/videos/support/
 If you have any questions visit our forums: https://davehakkens.nl/community/
+
+Good luck!
