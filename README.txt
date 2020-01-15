@@ -1,4 +1,4 @@
-# plastic-kit
+# precious-plastic-kit V4.0.1
 
 YEAH, you made it into the download-kit!
 Start with folder 1. read the introduction text and make sure to watch the videos from our website.
@@ -8,6 +8,3 @@ https://community.preciousplastic.com/
 https://discordapp.com/invite/rnx7m4t
 
 Good luck!!
-
-
-
